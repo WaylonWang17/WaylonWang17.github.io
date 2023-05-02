@@ -1,0 +1,55 @@
+#a{position: absolute;
+  top: 152px;
+  left: 0px;
+  width: 500px;
+  height: 500px;
+  border: 10px solid #2707d6;}
+#b{position: absolute;
+  top: 152px;
+  left: 900px;
+  width: 600px;
+  height: 800px;
+  border: 10px solid #2ff550;}
+#c{position: absolute;
+  top: 152px;
+  left: 2060px;
+  width: 462px;
+  height: 850px;
+  border: 10px solid #18cff0;}
+#d{position: absolute;
+  top: 600px;
+  left: 400px;
+  width: 552px;
+  height: 781px;
+  border: 10px solid rgb(23, 111, 226);}
+#e{position: absolute;
+  top: 650px;
+  left: 1530px;
+  width: 498px;
+  height: 210px;
+  border: 10px solid rgb(28, 235, 190);}
+#f{position: absolute;
+    top: 300px;
+    left: 1500px;
+    width: 580px;
+    height: 353px;
+    border: 10px solid rgb(28, 235, 190);}
+#g{position: absolute;
+      top: 512px;
+      left: 900px;
+      width: 821px;
+      height: 482px;
+      border: 10px solid rgb(240, 116, 34);}
+#h{position: absolute;
+  top: 1012px;
+  left: 1125px;
+  width: 393px;
+  height: 335px;
+  border: 10px solid rgb(240, 116, 34);}
+
+
+ 
+  body {
+    background-image: url('background.jpg');
+    background-size: cover;
+  }
